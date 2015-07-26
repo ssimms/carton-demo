@@ -1,0 +1,4 @@
+.vagrant/
+local/
+vendor/
+cpanfile.snapshot
